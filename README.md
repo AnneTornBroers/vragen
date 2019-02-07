@@ -10,3 +10,6 @@ Wat zijn big numbers en waarom zijn ze langzamer dan andere?
 
 ### Variabelen in size function
 Waarom werkt dat niet?
+
+### Beroepsproduct
+Wat moeten we precies doen voor het beroepsproduct?
